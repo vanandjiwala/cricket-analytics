@@ -1,2 +1,6 @@
 .venv
 .idea
+*.csv
+*.pyc
+ipl_json/
+*.zip
