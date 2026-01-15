@@ -1,5 +1,0 @@
-# This file was automatically generated
-name: ipl_data
-type: duckdb
-options:
-  filename: ipl_data.duckdb
